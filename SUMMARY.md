@@ -2,3 +2,7 @@
 
 * [Introduction](README.md)
 
+## CHAPTER 1 - QUICK HACKS
+
+* [Lightning Testnet in 60 seconds](quick-hacks/lightning-testnet-in-60-seconds.md)
+
