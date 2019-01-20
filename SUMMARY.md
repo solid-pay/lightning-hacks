@@ -8,6 +8,5 @@
 
 ## APPENDICES
 
-* [Untitled](appendices/untitled.md)
 * [Appendix A : Resources](appendices/appendix-a-resources.md)
 
