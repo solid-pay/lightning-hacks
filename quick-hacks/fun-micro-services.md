@@ -18,8 +18,6 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 {% embed url="https://lightning-roulette.com/" %}
 
-
-
 #### Paint a Pixel
 
 {% embed url="https://satoshis.place/" %}
@@ -28,13 +26,9 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 {% embed url="https://kriptode.com/micromine/index.html" %}
 
-
-
 #### Scratch Card
 
 {% embed url="https://kriptode.com/scratch/play.html" %}
-
-
 
 #### Slot Machine
 
