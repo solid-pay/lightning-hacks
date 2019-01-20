@@ -1,6 +1,6 @@
 # Social Network Integration
 
-The following is a list of social network integration or bots for various platforms
+The following is a list of social network integration or bots for various platforms.  These are custodial wallets so be careful to only use small amount, something you can afford to lose.
 
 #### Reddit
 
