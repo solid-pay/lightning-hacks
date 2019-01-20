@@ -2,7 +2,7 @@
 
 ### The Hack
 
-In this hack you will spend some of your hard earnt satoshis on main net micro services, and discover more services.
+In this hack you will spend some of your hard earnt satoshis on main net micro services, and discover more services.  The services selected on this page are fun micro services that will cost only a few cents of fractions of a cent.  Select one below and give it a try!
 
 ### Detailed Explanation
 
@@ -37,6 +37,14 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 #### Slot Machine
 
 {% embed url="https://www.lightningslotmachine.com/" %}
+
+#### Block Chains are Forever
+
+{% embed url="https://blockchainsareforever.com/" %}
+
+#### Blockstream Satellite
+
+{% embed url="https://blockstream.com/satellite-queue/" %}
 
 ### Further reading
 
