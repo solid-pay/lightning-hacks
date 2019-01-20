@@ -1,5 +1,5 @@
 ---
-description: v0.0.1
+description: Making a difference.  One satoshis at a time.
 ---
 
 # Introduction
