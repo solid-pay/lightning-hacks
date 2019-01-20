@@ -1,6 +1,8 @@
 # Lightning Testnet in 60 seconds
 
-### Quick Hack
+![](../.gitbook/assets/ln.png)
+
+### The Hack
 
 1. Get a testnet wallet at [htlc.me](https://htlc.me/)
 2. Open [satoshis place testnet](https://testnet.satoshis.place) in a new tab and paint a pixel
@@ -14,7 +16,7 @@ The instructions above should let you get started with a testnet wallet on the l
 
 1. Get a testnet wallet at htlc.me
 
-![Example HTLC wallet](../.gitbook/assets/htlc%20%281%29.png)
+![Example HTLC wallet](../.gitbook/assets/htlc.png)
 
 [htlc.me](https://htlc.me) is a wonderful service that lets you get started on the lightning network testnet.  It is what is known as a "custodail" wallet.  What that means is that htlc controls the funds, much like an email server, or even a bank, and you get to spend them.  Custodial wallets are the most user friendly way to get started with lightning network.  As technical knowledge grows you will learn how to create more secure solutions that allow you more control over the lightning network.
 
@@ -30,7 +32,7 @@ After painting a pixel or two hit the "submit" button and a page like the above 
 
 #### 3. Pay the invoice
 
-![](../.gitbook/assets/htlc2%20%282%29.png)
+![](../.gitbook/assets/htlc2.png)
 
 Once you have copied the invoice, go back to htlc as described in part \(1\).  Paste the invoice into the text box and press "Send Payment".
 
