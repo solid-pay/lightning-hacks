@@ -1,4 +1,10 @@
 # Appendix A : Resources
 
-[https://lightninghood.com/all-things-lightning-2/](https://lightninghood.com/all-things-lightning-2/)
+### Resource Lists
+
+{% embed url="https://lightninghood.com/all-things-lightning-2/" %}
+
+### Lapps
+
+[https://singles.shock.network/](https://singles.shock.network/)
 
