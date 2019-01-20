@@ -4,7 +4,7 @@
 
 In this hack you will be able to send and receive satoshis on social media in real time, via various integrations and bots.
 
-### Detailed Explanation 
+#### Detailed Explanation 
 
 The following is a list of social network integration or bots for various platforms.  These are custodial wallets so be careful to only use small amount, something you can afford to lose.
 
@@ -24,7 +24,7 @@ The following is a list of social network integration or bots for various platfo
 
 {% embed url="https://telegram.me/lntxbot" %}
 
-{% embed url="https://lightninghood.com/all-things-lightning-2/" %}
+### Cross Platform
 
-
+It is worth noting that it is possible to transfer satsohsis between different networks, and in this way lightning becomes a glue between communities.
 
