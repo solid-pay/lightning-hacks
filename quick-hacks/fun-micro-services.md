@@ -34,7 +34,7 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 {% embed url="https://www.lightningslotmachine.com/" %}
 
-#### Services Directory
+### Further reading
 
 {% embed url="https://lightninghood.com/all-things-lightning-2/" %}
 
