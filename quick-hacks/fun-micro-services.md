@@ -40,5 +40,11 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 ### Further reading
 
+{% embed url="https://lightninglist.co/" %}
+
 {% embed url="https://lightninghood.com/all-things-lightning-2/" %}
+
+
+
+
 
