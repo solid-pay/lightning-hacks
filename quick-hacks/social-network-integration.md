@@ -18,8 +18,6 @@ The following is a list of social network integration or bots for various platfo
 
 {% embed url="https://telegram.me/lntxbot" %}
 
-#### Services Directory
-
 {% embed url="https://lightninghood.com/all-things-lightning-2/" %}
 
 

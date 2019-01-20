@@ -34,5 +34,7 @@
 
 {% embed url="https://www.lightningslotmachine.com/" %}
 
+#### Services Directory
 
+{% embed url="https://lightninghood.com/all-things-lightning-2/" %}
 
