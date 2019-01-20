@@ -16,5 +16,5 @@
 ## APPENDICES
 
 * [Appendix A : Resources](appendices/appendix-a-resources.md)
-* [Appendix B : Videos](appendices/appendix-b-videos.md)
+* [Appendix B : Screencasts](appendices/appendix-b-screencasts.md)
 
