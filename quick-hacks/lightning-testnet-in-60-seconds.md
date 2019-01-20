@@ -14,8 +14,6 @@ The instructions above should let you get started with a testnet wallet on the l
 
 #### 1. Get a testnet wallet at [htlc.me](https://htlc.me/)
 
-1. Get a testnet wallet at htlc.me
-
 ![Example HTLC wallet](../.gitbook/assets/htlc.png)
 
 [htlc.me](https://htlc.me) is a wonderful service that lets you get started on the lightning network testnet.  It is what is known as a "custodail" wallet.  What that means is that htlc controls the funds, much like an email server, or even a bank, and you get to spend them.  Custodial wallets are the most user friendly way to get started with lightning network.  As technical knowledge grows you will learn how to create more secure solutions that allow you more control over the lightning network.
