@@ -4,6 +4,8 @@ description: v0.0.1
 
 # Introduction
 
+_This book is a work in progress, and in very early stages_
+
 ### Introduction Lightning hacks
 
 The [lightning network](http://lightning.network) is an exciting new payments layer that lives on top of bitcoin.  While still in beta it is currently a hotbed of innovation and allows near instantiations transactions to be sent for minimal or zero fees.
