@@ -22,6 +22,10 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 {% embed url="https://satoshis.place/" %}
 
+#### Yalls
+
+{% embed url="https://yalls.org/" %}
+
 #### Web Miner
 
 {% embed url="https://kriptode.com/micromine/index.html" %}
