@@ -40,3 +40,9 @@ This will route funds through the lightning network and finally reach its destin
 
 Congratulations, you have now made your first wallet and purchase on the \(testnet\) lightning network!
 
+### Further Reading
+
+{% embed url="https://medium.com/@nickcryptoltc/guide-to-using-the-lightning-network-on-satoshis-place-ae4c1543aac8" %}
+
+
+
