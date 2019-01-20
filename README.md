@@ -1,7 +1,3 @@
----
-description: Making a difference.  One satoshis at a time.
----
-
 # Introduction
 
 _This book is a work in progress, and in very early stages_
