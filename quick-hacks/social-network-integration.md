@@ -24,7 +24,7 @@ The following is a list of social network integration or bots for various platfo
 
 {% embed url="https://telegram.me/lntxbot" %}
 
-### Cross Platform
+#### Cross Platform Transactions
 
 It is worth noting that it is possible to transfer satsohsis between different networks, and in this way lightning becomes a glue between communities.
 
