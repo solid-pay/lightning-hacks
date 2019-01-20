@@ -14,5 +14,9 @@ Different wallets have trade offs, and this will be discussed elsewhere.
 
 Once you have blue wallet installed follow the instructions, it allows you to have both a bitcoin wallet and a lightning wallet and transfer funds between the two as well as topping up.
 
+#### Further Reading
+
+{% embed url="https://rusnak.io/lightning-wallets-comparison/" %}
+
 
 
