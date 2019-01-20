@@ -42,6 +42,10 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 {% embed url="https://blockchainsareforever.com/" %}
 
+#### Dice
+
+{% embed url="https://moneni.com/dice" %}
+
 #### Blockstream Satellite
 
 {% embed url="https://blockstream.com/satellite-queue/" %}
