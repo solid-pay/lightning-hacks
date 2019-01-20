@@ -18,5 +18,7 @@ Once you have blue wallet installed follow the instructions, it allows you to ha
 
 {% embed url="https://rusnak.io/lightning-wallets-comparison/" %}
 
+{% embed url="https://lightningnetworkstores.com/wallets" %}
+
 
 
