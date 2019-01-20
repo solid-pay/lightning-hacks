@@ -18,6 +18,16 @@
 
 {% embed url="https://satoshis.place/" %}
 
+#### Web Miner
+
+{% embed url="https://kriptode.com/micromine/index.html" %}
+
+
+
+#### Scratch Card
+
+{% embed url="https://kriptode.com/scratch/play.html" %}
+
 
 
 #### Slot Machine
