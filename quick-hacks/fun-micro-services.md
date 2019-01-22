@@ -6,6 +6,8 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 ### Detailed Explanation
 
+Here are some of the fun things you can do with your lightning wallet.
+
 #### Roulette
 
 {% embed url="https://lightning-roulette.com/" %}
@@ -42,7 +44,11 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 {% embed url="https://blockchainsareforever.com/" %}
 
-#### Dice
+#### Ln Games
+
+{% embed url="https://lngames.net/" %}
+
+### Dice
 
 {% embed url="https://moneni.com/dice" %}
 
