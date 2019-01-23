@@ -17,4 +17,5 @@
 
 * [Appendix A : Resources](appendices/appendix-a-resources.md)
 * [Appendix B : Screencasts](appendices/appendix-b-screencasts.md)
+* [Appendix C - Articles of Note](appendices/appendix-c-articles-of-note.md)
 
