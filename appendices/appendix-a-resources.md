@@ -6,19 +6,17 @@
 
 {% embed url="https://github.com/Lightning-Family/lightning.family" %}
 
+{% embed url="https://lightningwiki.net/index.php/Main\_Page" %}
+
 
 
 ### Other Miscellaneous Lapps
 
-Vouchers
+#### Vouchers
 
 {% embed url="https://donnerlab.com/voucher" %}
 
-[https://lightningwiki.net/index.php/Main\_Page](https://lightningwiki.net/index.php/Main_Page)
-
-
-
-Singles
+#### Singles
 
 [https://singles.shock.network/](https://singles.shock.network/)
 
