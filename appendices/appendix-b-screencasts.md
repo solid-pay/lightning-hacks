@@ -1,5 +1,7 @@
 # Appendix B : Screencasts
 
+{% embed url="https://twitter.com/hodlonaut/status/1088246817119191040" %}
+
 
 
 {% embed url="https://twitter.com/LightningJoule/status/1087763719709446145" caption="Tip and Go!" %}
