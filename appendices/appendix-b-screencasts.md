@@ -10,5 +10,7 @@
 
 {% embed url="https://twitter.com/coincenter/status/1086357640958148608" %}
 
+{% embed url="https://www.youtube.com/watch?v=b1w-W6oMb\_M" %}
+
 
 
