@@ -4,6 +4,8 @@
 
 {% embed url="https://lightninghood.com/all-things-lightning-2/" %}
 
+{% embed url="https://github.com/bcongdon/awesome-lightning-network" %}
+
 {% embed url="https://en.wikiversity.org/wiki/Lightning\_Network" %}
 
 {% embed url="https://github.com/Lightning-Family/lightning.family" %}
