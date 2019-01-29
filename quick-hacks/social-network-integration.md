@@ -28,6 +28,10 @@ The following is a list of social network integration or bots for various platfo
 
 It is worth noting that it is possible to transfer satsohsis between different networks, and in this way lightning becomes a glue between communities.
 
+{% embed url="https://github.com/bumi/lntip" %}
+
+
+
 ### Further Reading
 
 {% embed url="https://medium.com/guarda/%EF%B8%8Fcustodial-vs-non-custodial-wallet-s-%EF%B8%8F-benefits-of-light-wallets-87cf701054d1" %}
