@@ -8,6 +8,10 @@ In this hack you will spend some of your hard earnt satoshis on main net micro s
 
 Here are some of the fun things you can do with your lightning wallet.
 
+#### Chess 
+
+{% embed url="https://koalastud.io/" %}
+
 #### Roulette
 
 {% embed url="https://lightning-roulette.com/" %}
